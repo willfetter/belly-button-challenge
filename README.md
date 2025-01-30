@@ -39,3 +39,5 @@ Complete the following steps:
 ## Resources:
  - Class information and videos - for basics of coding and building foundation
  - Stack overflow - for trouble shooting, and researching best code practices
+ - https://plotly.com/javascript/ for help when building plots
+ - 
