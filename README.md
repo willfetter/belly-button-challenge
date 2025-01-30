@@ -1,16 +1,21 @@
 # belly-button-challenge
  Module 14 Challenge - By William Fetter
 
+# Background Information
+In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
+
+The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
+
 # Input Files
-The initial input files for the assignment are located within the "???????" folder and are listed as:
-- "?????????"
-- "?????????"
+The initial input files for the assignment are located within the "belly_button-challenge/Starter_Code" folder and are listed as:
+- "index.html"
+- "samples.json"
+- "static/js/app.js"
 
 # OutPut Files
-The resulting output files for the assignment are located within ?????????? and are listed as:
-- "?????????"
-- "?????????"
-- "?????????"
+The resulting output files for the assignment are located within the main "belly_button-challenge" directory and are listed as:
+- "static/js/app.js"
+
 
 ## Instructions
 Complete the following steps:
