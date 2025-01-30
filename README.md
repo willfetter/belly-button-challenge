@@ -15,7 +15,7 @@ The initial input files for the assignment are located within the "belly_button-
 # OutPut Files
 The resulting output files for the assignment are located within the main "belly_button-challenge" directory and are listed as:
 - "static/js/app.js"
-
+- App Deployed to Github Pages at https://willfetter.github.io/
 
 ## Instructions
 Complete the following steps:
