@@ -40,4 +40,4 @@ Complete the following steps:
  - Class information and videos - for basics of coding and building foundation
  - Stack overflow - for trouble shooting, and researching best code practices
  - https://plotly.com/javascript/ for help when building plots
- - 
+ - https://plotly.com/javascript/bubble-charts/ for help with building bubble charts
